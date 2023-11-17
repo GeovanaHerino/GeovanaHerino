@@ -2,7 +2,7 @@
 
 Meu nome é Geovana Garavelo
 
-- Estou estudando na Alura!}[](https://cursos.alura.com.br/)
+- Estou estudando na [Alura](https://cursos.alura.com.br/)
 - Estou me desenvolondo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
